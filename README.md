@@ -1,1 +1,6 @@
 # UFOs
+#### This project created a website based off of UFO sightings.  Using a data file of recorded UFO dightings, we created a table that hasfiltering capabilities using ES6+ updated JavaScript, D3 and made lovely to look at with BootStrap and CSS.  We used dynamic tables and filtering from JavaScript to allow the user to imagine ideas and make predictions using UFO sightings as a data element to their research.
+
+#### Dana is a data journalist who gets to collect data on UFO sightings from her hometown.  She prepared her preliminary website using a storyboard, making bookstrap and CSS more direct while putting the website together.  Then we developed the app and finally the HTML.  We brought in the data to filter through and used and image to improve the look of our website.  
+
+#### While the dynamic table is wonderful and helpful in pinpointing direct data, it would be interesting to have a chart auto-populate based on the filtering value used.  For example, if I looked up boston, It would be interesting to have a descrition of the other headers based on the city of Boston being filtered out.
